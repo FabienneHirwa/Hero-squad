@@ -18,8 +18,8 @@ Gradle
 Spark
 Junit
 
- ![HOME](image/a.png)
- ![HERO](image/b.png)
- ![SQUAD](image/c.png)
- ![ALL](image/d.png)
+ ![HOME](/images/a.png)
+ ![HERO](/images/b.png)
+ ![SQUAD](/images/c.png)
+ ![ALL](/images/d.png)
  
