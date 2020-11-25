@@ -12,7 +12,7 @@ A Caesar cipher is a type of substitution in which each letter is shifted a cert
 
 You have to open yur terminal(Ctrl+Alt+T) You have to clone this project by using this link https:https://github.com/FabienneHirwa/cipher.git
  ![Encode codes](image/a.png)
- ![testEncode codes](image/2.png)
+ ![testEncode codes](image/b.png)
  ![Decode codes](image/3.png)
  ![testDecode codes](image/4.png)
  ![App codes](image/5.png)
