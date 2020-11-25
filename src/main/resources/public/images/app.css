@@ -1,0 +1,78 @@
+body {
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(69,69,69,1) 50%, rgba(0,0,0,1) 100%);
+    font-family: Bangers;
+}
+
+.nav-item {
+    color: #020202;
+    font-weight: 500;
+}
+.col-md-3{
+font-size:20px !important;
+}
+
+.container {
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0px;
+}
+
+#navLogo {
+    margin-right: 15px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.active {
+    text-decoration: underline;
+    text-decoration-size: 2px;
+}
+
+
+.jumbotron {
+    border-radius: 0px;
+    font-family: 'Bangers', cursive;
+    color: white;
+}
+
+.jumbotron h1 {
+    font-size: 60px;
+    font-weight:900;
+}
+
+
+#session-form {
+    margin-bottom: 20px;
+}
+
+#session-form form{
+    margin: 15px auto 15px auto;
+}
+
+#session-form button {
+    display: block;
+    margin: 10px auto;
+}
+
+#session-form h3, #returning-agent h2 {
+    font-family: 'Acme', sans-serif;
+}
+
+#returning-agent h2 {
+    margin-bottom: 20px;
+}
+
+#newsFeed {
+    margin: 20px auto;
+}
+
+
+
+.heroSquadCard {
+    width: 20rem;
+    margin: auto;
+}
+
+

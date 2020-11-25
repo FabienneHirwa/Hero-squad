@@ -1,0 +1,29 @@
+{{#partial "navbar"}}
+    <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
+    <li class="nav-item"><a class="nav-link" href="/heroes/new">Hero</a></li>
+    <li class="nav-item"><a class="nav-link" href="/squads/new">Squad</a></li>
+    <li class="nav-item"><a class="nav-link" href="/heroes">All</a></li>
+
+{{/partial}}
+
+{{#partial "content"}}
+
+        <div id="returning-agent">
+
+
+
+            <div class="row">
+                <div class="col-md-3"><p>Heroes Registered: {{totalHeroes}}</p></div>
+                <div class="col-md-3"><p>Squads Present: {{totalSquads}}</p></div>
+                <div class="col-md-3"><p>Heroes w/ squads: {{squadfullHeroes}}</p></div>
+                <div class="col-md-3"><p>Heroes without squads: {{squadlessHeroes}}</p></div>
+            </div>
+
+
+
+        </div>
+
+
+{{/partial}}
+
+{{> layout.hbs}}
