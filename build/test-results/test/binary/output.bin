@@ -1,6 +1,6 @@
  ------------ Before -----------
-[models.Hero@1104bae]
-[models.Hero@3d014830]
+[models.Hero@941260b]
+[models.Hero@68b7d28a]
 ------------ After-----------
 []
-,[models.Hero@3d014830, models.Hero@1104bae]
+,[models.Hero@68b7d28a, models.Hero@941260b]

@@ -14,10 +14,12 @@ public class HeroTest {
     }
 
     private Hero setupNewHero(){
+
         return new Hero ("Batman",45,"Money","Loneliness");
     }
 
     private Hero setupHero2() {
+
         return new Hero("Superman", 180, "Almost everything", "Kryptonite");
     }
 

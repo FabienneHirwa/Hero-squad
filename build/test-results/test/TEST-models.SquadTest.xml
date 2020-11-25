@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="models.SquadTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-25T11:12:14" hostname="fabienne-HP-ENVY-Notebook" time="0.007">
+<testsuite name="models.SquadTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-25T15:47:56" hostname="fabienne-HP-ENVY-Notebook" time="0.004">
   <properties/>
-  <testcase name="moveHeroToAnotherSquad" classname="models.SquadTest" time="0.005"/>
-  <testcase name="squadInstanciatedCorrectly" classname="models.SquadTest" time="0.0"/>
-  <testcase name="removeHeroMember" classname="models.SquadTest" time="0.001"/>
-  <testcase name="addingHeroToExistingSquad" classname="models.SquadTest" time="0.0"/>
-  <testcase name="addHero_NotExeedLimitOf1_int" classname="models.SquadTest" time="0.0"/>
-  <testcase name="addHero_NotExeedLimitOf3_int" classname="models.SquadTest" time="0.0"/>
-  <testcase name="getSquadName" classname="models.SquadTest" time="0.0"/>
-  <testcase name="getSquadCause" classname="models.SquadTest" time="0.0"/>
+  <testcase name="moveHeroToAnotherSquad" classname="models.SquadTest" time="0.004"/>
   <system-out><![CDATA[------------ Before -----------
-[models.Hero@1104bae]
-[models.Hero@3d014830]
+[models.Hero@941260b]
+[models.Hero@68b7d28a]
 ------------ After-----------
 []
-[models.Hero@3d014830, models.Hero@1104bae]
+[models.Hero@68b7d28a, models.Hero@941260b]
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
