@@ -15,5 +15,4 @@ You have to open yur terminal(Ctrl+Alt+T) You have to clone this project by usin
  ![testEncode codes](image/b.png)
  ![Decode codes](image/c.png)
  ![testDecode codes](image/d.png)
- ![App codes](image/5.png)
- ![My output](image/output1.png)
+ 
