@@ -9,9 +9,17 @@ Fabienne Hirwa
 
 An app that allows you to recruit a well-balanced team of superheroes (or any other character-type of your choosing).
 
+# Built with
+HTML 
+Handlebars
+Css
+Java
+Gradle
+Spark
+Junit
 
- ![Encode codes](image/a.png)
- ![testEncode codes](image/b.png)
- ![Decode codes](image/c.png)
- ![testDecode codes](image/d.png)
+ ![HOME](image/a.png)
+ ![HERO](image/b.png)
+ ![SQUAD](image/c.png)
+ ![ALL](image/d.png)
  
