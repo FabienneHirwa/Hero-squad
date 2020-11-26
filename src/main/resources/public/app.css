@@ -1,13 +1,11 @@
 body {
     font-family: Roboto;
-    background-image: url('https://www.rollingstone.com/wp-content/uploads/2018/07/RS_Lead_BestSuperheros.jpg?resize=1800,1200&w=450');
-    background-size: cover ;
-    background-repeat: no-repeat;
+
 }
 
 .nav-item {
     color: #020202;
-    font-weight: 500;
+    font-weight: 900;
 }
 .col-md-3{
 font-size:25px !important;
@@ -17,6 +15,7 @@ font-size:25px !important;
     padding-top: 4rem;
     padding-bottom: 1rem;
     margin-bottom: 0px;
+    width:800px !important;
 }
 
 #navLogo {
@@ -32,13 +31,17 @@ font-size:25px !important;
     text-decoration-size: 2px;
 }
 
-
+.jumbotron{
+background-image:url('https://www.dlh.net/public/data/Texts/57859/0000_ItemCover_5a5f7e7ea3caa.png');
+background-repeat: no-repeat;
+background-size: cover;
+}
 
 
 .jumbotron h1 {
     font-size: 60px;
-    font-weight:900;
-    color: brown;
+    font-weight:bolder;
+    color:#C901F1;
 }
 
 

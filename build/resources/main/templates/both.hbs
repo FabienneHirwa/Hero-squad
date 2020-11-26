@@ -7,10 +7,9 @@
 
 
 {{#partial "content"}}
-    <h2 class="text-center">Classified Information</h2>
     <div class="row">
         <div class="col-md-6 text-center">
-            <h5 class="text-center"><u>Heroes</u></h5>
+            <h3 class="text-center"> Heroes' list</h3>
             {{#if allHeroes}}
                 <div class="card heroSquadCard">
                     <ul class="list-group list-group-flush">
@@ -20,12 +19,12 @@
                     </ul>
                 </div>
             {{else}}
-                <p>No hero registered at the moment, check again in a while.</p>
+                <p>Empty</p>
             {{/if}}
         </div>
 
         <div class="col-md-6 text-center">
-            <h5><u>Squads</u></h5>
+            <h3>Squads' list</h3>
             {{#if allSquads}}
                 <div class="card heroSquadCard">
                     <ul class="list-group list-group-flush">
@@ -35,7 +34,7 @@
                     </ul>
                 </div>
             {{else}}
-                <p>No squads have been formed, check again in a while.</p>
+                <p>Empty</p>
             {{/if}}
         </div>
     </div>
